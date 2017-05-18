@@ -1,0 +1,2 @@
+Crear la base de datos como con el nombre de "REGISTRO".
+Abrir php "inicia".
